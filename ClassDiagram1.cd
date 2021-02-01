@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BarCode">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAIAAAACAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BarCode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ean13">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAACIQhAAAAAABAAAIAAAACAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Ean13.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Upc">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAACIAgAAAAAABAAAIAAAACAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Upc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpcData">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAoAgAADEAAAAAAAAAAAAAgAIACiAAgAAAEAAA=</HashCode>
+      <FileName>UpcData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EanData">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAoAgAABEAAAAAAAAAAAAAkAIAGCAAgQAAEAAA=</HashCode>
+      <FileName>EanData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyException">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAQAAAAAAAAAAAAAAAAQAAAAAAAAAAACA=</HashCode>
+      <FileName>MyException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputEx">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputEx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OwnIterator&lt;Type&gt;">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAQCEAAQAAAAEAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cList&lt;Type&gt;">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="cList&lt;Type&gt;::iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>List.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="cList&lt;Type&gt;::const_iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>List.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IgAAAAACgAAABCAEAAIAAAAQAAAAAAEHAAgAAAAEQAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ListNode&lt;Type&gt;">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAgA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

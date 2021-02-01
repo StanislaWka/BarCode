@@ -1,0 +1,10 @@
+1 Burger
+2 CheeseBurger
+3 McFlury
+4 BigMack
+5 ChickenBurger
+6 BigTasty
+7 Cesar
+8 FileOFish
+9 Coffe
+0 Fries

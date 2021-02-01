@@ -1,0 +1,10 @@
+1 Bed
+2 Sofe
+3 Table
+4 Chairs
+5 CupBoard
+6 Locker
+7 Shelving
+8 Shelf
+9 Door
+0 Laminat

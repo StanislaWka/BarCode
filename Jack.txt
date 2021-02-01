@@ -1,0 +1,10 @@
+1 Shapka
+2 Boots
+3 Jacket
+4 Shirt
+5 Shoes
+6 Jeans
+7 Trainers
+8 Costume
+9 Boxes
+0 Pyjamas

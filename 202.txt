@@ -1,0 +1,10 @@
+1 19L_Water
+2 19L_Water_Ftor
+3 Culer
+4 19L_Magniy
+5 5L_Water
+6 19L_Water_Magniy+Ftor
+7 Electro_Culer
+8 Delivery
+9 10L_Water
+0 15L_Water

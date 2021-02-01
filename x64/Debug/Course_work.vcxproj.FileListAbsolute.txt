@@ -1,0 +1,2 @@
+D:\Education\2 course\Course_work\x64\Debug\Course_work.exe
+D:\Education\2 course\Course_work\x64\Debug\Course_work.pdb

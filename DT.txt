@@ -1,0 +1,10 @@
+1 Mstislavca_15
+2 Mstislavca_22
+3 Mstislavca_24
+4 Turovskogo_14
+5 Turovskogo_16
+6 Turovskogo_18
+7 Turovskogo_20
+8 Turovskogo_22
+9 Mstislavca_24
+0 Mstislavca_13

@@ -1,0 +1,10 @@
+1 IPhone_12_Pro
+2 IPhone_12_Mini
+3 MacBook_13_Pro
+4 MacBook_13_Air
+5 IPad_Air
+6 Ipad_Pro
+7 EarPods
+8 AirPods
+9 AirPods_Pro
+0 MacBook_16

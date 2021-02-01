@@ -1,0 +1,10 @@
+1 G-Shox
+2 Baby-G
+3 Edifice
+4 Radio_Controler
+5 Sheen
+6 Vintage
+7 Pro_Track
+8 Casio_Sport
+9 WakeUp_Timer
+0 Casio_Collection

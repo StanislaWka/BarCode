@@ -1,0 +1,10 @@
+1 Cola_0.333L
+2 Cola_0.5L
+3 Cola_1L
+4 Cola_1.5L
+5 Cola_2L
+6 Fanta_0.333L
+7 Fanta_0.5L
+8 Fanta_1L
+9 Fanta_1.5L
+0 Fanta_2L

@@ -1,0 +1,10 @@
+1 Clion
+2 ReSharper
+3 WebStorm
+4 IntelijIDEA
+5 Scala
+6 R
+7 dotPEEK
+8 Space
+9 PyCharm
+0 PhpStorm

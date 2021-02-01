@@ -1,0 +1,10 @@
+0 202
+1 BMW
+2 Coca-Cola
+3 McDonalds
+4 Jack&Jhons
+5 PinskDrev
+6 JetBrains
+7 Apple
+8 DanaTowers
+9 Casio
